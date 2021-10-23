@@ -15,7 +15,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
-        tools:srcCompat="@drawable/squid_game_logo"
+        android:src="@drawable/squid_game_font"
         android:contentDescription="@string/squid_game_logo" />
 
     <TextView
