@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">task 1</string>
-    <string name="WhatIsSquidGame">Squid Game (Korean: 오징어 게임; RR: Ojing-eo Geim) is a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix. The series revolves around a contest in which 456 players, drawn from different walks of life but each deeply in debt, play a series of children\'s games for the chance to win a ₩45.6 billion[a] prize, with a deadly penalty if they lose. The name of the series draws from a similarly named Korean children\'s game. Its cast includes Lee Jung-jae, Park Hae-soo, Wi Ha-joon, Jung Ho-yeon, O Yeong-su, Heo Sung-tae, Anupam Tripathi, and Kim Joo-ryoung.</string>
-    <string name="squid_game">Squid Game</string>
-    <string name="squid_game_logo">squid game logo</string>
+    <string name="meme_title">Job Meme</string>
+    <string name="photo_description">Meme photo</string>
+    <string name="dev_name">Muhammad Marmash</string>
+    <string name="dev_special">Anroid Developer</string>
+
 </resources>
